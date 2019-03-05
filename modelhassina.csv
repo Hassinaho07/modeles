@@ -1,0 +1,12 @@
+dimensions : physiques / acteurs / concepts / rapports,niveau,nombre,type de source ,type de distination,type de prédicat,Nb prédicat,complexité
+homme,2,1,"acteur
+",,,0,3
+femme,2,1,"acteur
+",,,0,3
+autre,1,1,"acteur
+",,,0,2
+réseaux sociaux,1,1,concept,,,0,2
+restaurant,1,1,concept,,,0,2
+sport,2,1,concept,,,0,3
+parachute,2,1,concept,,,0,3
+week end,3,1,concept,,,0,4
